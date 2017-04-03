@@ -13,7 +13,7 @@ Make awesome websites, apps and other digital things!
 - In-depth understanding of accessibility and usability
 - Knowledge of server-side technologies
 - Experience of making mobile apps
-- Experience of making media arts or installations includeing physical computing
+- Experience of making installation and media arts including physical computing
 
 …And also, you must be able to commute to Tokyo office and have basic conversation in Japanese.
 
